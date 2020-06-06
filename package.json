@@ -1,0 +1,13 @@
+{
+    "name": "greeter-bot",
+    "version": "1.0.0",
+    "description": "El bot más poderoso de tu servidor",
+    "main": "bot.js",
+    "author": "masternico97",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "opusscript": "0.0.7",
+        "winston": "^3.2.1",
+        "ytdl-core": "^1.0.0"
+    }
+}
